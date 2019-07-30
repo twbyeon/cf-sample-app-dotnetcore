@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace CfSampleAppDotNetCore
 {
-    public class Program
+    private class Program
     {
         public static void Main(string[] args)
         {
